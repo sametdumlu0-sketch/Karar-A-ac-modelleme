@@ -1,0 +1,16 @@
+# Sanal ortam ve Python önbellek dosyaları
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook kontrol noktaları
+.ipynb_checkpoints/
+
+# İşletim sistemi ve editör dosyaları
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
